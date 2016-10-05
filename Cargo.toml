@@ -1,0 +1,8 @@
+[package]
+name = "ler"
+version = "0.0.0"
+authors = ["Jadon Fowler <jadonflower@gmail.com>"]
+
+[dependencies]
+sha1 = "0.2.0"
+clap ="2"
